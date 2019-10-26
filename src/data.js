@@ -95,7 +95,7 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
-  }
+  },
 ];
 
 export const detailProduct = {
