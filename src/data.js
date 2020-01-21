@@ -1,7 +1,7 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "4-pcs Brush-black",
+    title: "4-pcs Brush black",
     img: "img/4-pcs-brush-black.jpeg",
     price: 10,
     company: "unknown",
@@ -13,7 +13,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "6pcs Eyeshadow-set",
+    title: "6pcs Eyeshadow set",
     img: "img/6pcs-eyeshadow-set.jpeg",
     price: 10,
     company: "unknown",
@@ -25,7 +25,7 @@ export const storeProducts = [
   },
   {
     id: 3,
-    title: "8pcs Lipstick-set",
+    title: "8pcs Lipstick set",
     img: "img/8pcs-naqier-lipstick-set.jpg",
     price: 16,
     company: "Naqier",
@@ -37,7 +37,7 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "15-pcs Brush-set",
+    title: "15-pcs Brush set",
     img: "img/15-pcs-brush-set.jpeg",
     price: 20,
     company: "unknown",
@@ -121,7 +121,7 @@ export const storeProducts = [
   },
   {
     id: 11,
-    title: "Liquid Lipstick - matte",
+    title: "Liquid Lipstick matte",
     img: "img/liquid-lipstick-matte.jpeg",
     price: 4,
     company: "unknown",
