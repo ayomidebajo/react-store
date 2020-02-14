@@ -26,7 +26,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "8pcs Lipstick set",
-    img: "img/8pcs-naqier-lipstick-set.jpg",
+    img: "img/8pcs set.jpg",
     price: 16,
     company: "Naqier",
     info:
